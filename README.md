@@ -12,6 +12,7 @@
 
 
 <br/>
+<h2>Fetch<h2/>
 
 ```
                    .-*+*+*+*+*+#***#*#*-             CS-Astronaut@github
@@ -42,8 +43,8 @@
 -----:--:-:.::=++++**+++++++++++=-:.:.:::::-:---:.   
 ---:-::-::::::=+**++**+++++*++++=-.:.:.::::::-----   
 ```
-
-
+<h2>Stack<h2/>
+  
 <!-- dev icons -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -66,7 +67,7 @@
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW94eXJpYW9sNG42bmRpd2p3ZDk4Zmt4dGQ2Mm5vZmg4aTlwbW4xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DGaZTLF390Z0s/giphy.gif" width="100" alt="mario gif"/>        
-  <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="100px"/>
+  <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="80px"/>
 </div>
 
 <div id="badges" align="center">
