@@ -45,16 +45,14 @@
 
 
 <!-- dev icons -->
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,cpp,linux,arch,debian,vim,docker,bash,git,github,latex,matlab,html,css,tailwind,django,sqlite,replit,obsidian,md,windows" align="center" />
+    <img src="https://skillicons.dev/icons?i=py,opencv,cpp,linux,arch,debian,vim,docker,bash,git,github,latex,matlab,html,css,tailwind,django,sqlite,replit,obsidian,md,windows" />
   </a>
 </p>
 
 <hr/>
-<div>
-<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="50px"/>
-<div/>
+
 
 <div align="center">
 
@@ -69,6 +67,7 @@
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW94eXJpYW9sNG42bmRpd2p3ZDk4Zmt4dGQ2Mm5vZmg4aTlwbW4xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DGaZTLF390Z0s/giphy.gif" width="100" alt="mario gif"/>        
+  <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="50px"/>
 </div>
 
 <div id="badges" align="center">
