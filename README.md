@@ -13,6 +13,7 @@
 
 <br/>
 <h2>Fetch<h2/>
+<br/>
 
 ```
                    .-*+*+*+*+*+#***#*#*-             CS-Astronaut@github
@@ -44,21 +45,25 @@
 ---:-::-::::::=+**++**+++++*++++=-.:.:.::::::-----   
 ```
 <h2>Stack<h2/>
-  
+  <br/>
+
 <!-- dev icons -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,opencv,cpp,linux,arch,debian,vim,docker,bash,git,github,latex,matlab,html,css,tailwind,django,sqlite,replit,obsidian,md,windows&perline=30" />
   </a>
 </p>
+<br/>
 
 <h2>Stats<h2/>
+<br/>
 
 <div align="center">
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cs-astronaut&theme=tokyonight&exclude=jupyter%20Notebook" />
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cs-astronaut&theme=tokyonight" />
+<br/>
 
 
 </div>
@@ -67,7 +72,7 @@
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW94eXJpYW9sNG42bmRpd2p3ZDk4Zmt4dGQ2Mm5vZmg4aTlwbW4xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DGaZTLF390Z0s/giphy.gif" width="100" alt="mario gif"/>        
-  <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="80px"/>
+  <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="75px"/>
 </div>
 
 <div id="badges" align="center">
