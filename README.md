@@ -7,12 +7,6 @@
 **`Just an astronaut exploring the computer science galaxy`**
 
 
-
-
-
-
-<br/>
-<h2>Fetch<h2/>
 <br/>
 
 ```
@@ -44,9 +38,7 @@
 -----:--:-:.::=++++**+++++++++++=-:.:.:::::-:---:.   
 ---:-::-::::::=+**++**+++++*++++=-.:.:.::::::-----   
 ```
-<h2>Stack<h2/>
-  <br/>
-
+## Stack
 <!-- dev icons -->
 <p align="center">
   <a href="https://skillicons.dev">
