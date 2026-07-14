@@ -1,11 +1,9 @@
-<h1>
-  CS Astronaut 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE3aGE5ZXdiaTdiMXBpeTk5ZG5iZXY2NTB0MzFiaDVrYjNzZ2xyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gyr5H37A484WqdFXJ7/giphy.gif" width="70px"/>
+# CS Astronaut 
 
-</h1>
-
-**`Just an astronaut exploring the computer science galaxy`**
-
+<div align="center" >
+Just an astronaut exploring the computer science galaxy   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE3aGE5ZXdiaTdiMXBpeTk5ZG5iZXY2NTB0MzFiaDVrYjNzZ2xyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gyr5H37A484WqdFXJ7/giphy.gif" width="70px"/>
+</div>
+  
 ## Fetch
 
 <br/>
