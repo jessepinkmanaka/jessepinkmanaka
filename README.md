@@ -45,9 +45,9 @@
 
 
 <!-- dev icons -->
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,cpp,linux,arch,debian,vim,docker,bash,git,github,latex,matlab,html,css,tailwind,django,sqlite,replit,obsidian,md,windows" />
+    <img src="https://skillicons.dev/icons?i=py,opencv,cpp,linux,arch,debian,vim,docker,bash,git,github,latex,matlab,html,css,tailwind,django,sqlite,replit,obsidian,md,windows&perline=30" />
   </a>
 </p>
 
