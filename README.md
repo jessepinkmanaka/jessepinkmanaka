@@ -6,6 +6,7 @@
 
 **`Just an astronaut exploring the computer science galaxy`**
 
+## Fetch
 
 <br/>
 
@@ -47,8 +48,7 @@
 </p>
 <br/>
 
-<h2>Stats<h2/>
-<br/>
+## Stats
 
 <div align="center">
 
