@@ -8,13 +8,8 @@
 
 
 
-<h2>
-About Me:
-</h2>
 
-<div>
-<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="50px"/>
-<div/>
+
 
 <br/>
 
@@ -52,12 +47,14 @@ About Me:
 <!-- dev icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,cpp,linux,arch,debian,vim,docker,bash,git,github,latex,matlab,html,css,tailwind,django,sqlite,replit,obsidian,md,windows" />
+    <img src="https://skillicons.dev/icons?i=py,opencv,cpp,linux,arch,debian,vim,docker,bash,git,github,latex,matlab,html,css,tailwind,django,sqlite,replit,obsidian,md,windows" align="center" />
   </a>
 </p>
 
 <hr/>
-
+<div>
+<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="50px"/>
+<div/>
 
 <div align="center">
 
